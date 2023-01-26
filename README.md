@@ -1,6 +1,6 @@
-# DataStructure, Algorithm Journal
+# DataStructure, Algorithm Study
 
-자료구조, 알고리즘 일지
+자료구조, 알고리즘 공부
 
 ---
 
